@@ -1,0 +1,125 @@
+btn--winner {
+    background-color: #54B0FF;
+    border: 10px;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 22px;
+    font-weight: bold;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 1px;
+}
+
+btn--winner:hover {
+    background-color: #2897f8;
+    border: 10px;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 22px;
+    font-weight: bold;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 1px;
+}
+
+btn--runnerup {
+    background-color: #54B0FF;
+    border: 10px;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    color: white;
+    padding: 8px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: bold;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 0.7px;
+}
+
+btn--runnerup:hover {
+    background-color: #2897f8;
+    border: 10px;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    color: white;
+    padding: 8px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: bold;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 0.7px;
+}
+
+btn--otherpages {
+    background-color: white;
+    border: 10px;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    color: black;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+}
+
+btn--otherpages:hover {
+    background-color: #dcdcdc;
+    border: 10px;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    color: black;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+}
+
+btn--fulllist {
+    background-color: white;
+    border: 10px;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    color: black;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+btn--fulllist:hover {
+    background-color: #dcdcdc;
+    border: 10px;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    color: black;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    font-weight: bold;
+}
